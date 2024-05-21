@@ -1,0 +1,19 @@
+Why OOP?
+
+Father of CS: Alan Turing
+Father of OOP: Alan Kay
+
+Complexity
+
+1. Explain the factors that led to the
+introduction of Object Oriented programming
+paradigm. Compare it with procedure oriented
+programming paradigm.
+
+2. Explain the four pillars of Object 
+Oriented Programming Principles.
+
+3. Explain Java buzzwords.
+
+4. Write a program in Java in to demonstrate
+   multiple inheritance.
