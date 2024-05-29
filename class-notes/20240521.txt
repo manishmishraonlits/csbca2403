@@ -1,0 +1,10 @@
+
+	Package: Collection of types
+		 They work as namespace
+
+	Types
+		Class
+		Interface
+		Enum
+
+	
