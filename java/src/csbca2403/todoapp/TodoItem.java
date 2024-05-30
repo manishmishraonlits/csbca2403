@@ -1,17 +1,22 @@
 package csbca2403.todoapp;
 
-import java.awt.Frame;
 import java.util.Date;
 
-public class TodoItem extends Frame {
+public class TodoItem {
     int id;
     String title;
-    String notes;
-    Date dateAdded;
-    Date dueDate;
+    String note;
+    // Date dateAdded;
+    // Date dueDate;
+
+    TodoItem() {
+        id = 1;
+        title = "Complete Java Assignment";
+        note = null;
+    }
 
     void setTodoItem() {
-
+        
     }
 
     void getTodoItem() {
@@ -20,9 +25,5 @@ public class TodoItem extends Frame {
     
     void getTodoItems() {
 
-    }
-
-    public static void main(String[] args) {
-        new TodoItem();
     }
 }

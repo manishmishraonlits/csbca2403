@@ -1,0 +1,18 @@
+DBMS:
+	A software that enables us to create and 
+	maintain database.
+
+Database:
+	A collection of related data.
+		- Miniworld/Universe of discourse
+		- Objective
+		- Pre-defined set of users
+
+Data Model
+	- Hierarchical
+	- Network
+	- Relational
+		Data is stored in tables (relation)
+		Oracle, MS SQL Server, IBM DB2
+		MS Access, MySQL, MariaDB
+	- ER Model
