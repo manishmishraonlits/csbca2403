@@ -1,0 +1,6 @@
+SQL
+DDL
+DML
+DQL
+DCL
+TCL
